@@ -1,0 +1,1 @@
+{"batchVolume":23,"boilTime":70,"density":13.5,"efficiency":80.1,"finalDensity":2.5,"hops":[{"alphaAcids":6.7,"boilTime":70,"name":"Marynka","weight":40},{"alphaAcids":6,"name":"Lubelski","boilTime":25,"weight":22.5},{"alphaAcids":6,"name":"Lubelski","boilTime":5,"weight":22.5}],"malts":[{"ebc":6.25,"extract":81.6,"name":"Pale Ale","weight":5}],"waterGrainRatio":2.5}
